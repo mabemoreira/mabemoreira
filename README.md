@@ -1,4 +1,4 @@
-### Hey there! My name is Maria Beatriz, but you can call me Mabe (*maˈbe*) 😊
+### Hey there! My name is Maria Beatriz, but you can call me Mabe (/*maˈbe*/) 😊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-beatriz-moreira-177146233/)
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mabisbes)
